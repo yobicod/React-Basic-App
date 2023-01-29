@@ -1,0 +1,18 @@
+.item-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 100px;
+}
+
+.item-list li {
+  background: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  padding: 10px;
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  position: relative;
+}
+
+
